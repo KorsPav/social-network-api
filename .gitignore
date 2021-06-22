@@ -1,0 +1,6 @@
+/db.sqlite3
+/SocialNetworkAPI/secret.py
+/venv/
+/.git/
+/.idea/
+__pycache__/
